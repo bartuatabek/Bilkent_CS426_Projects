@@ -1,2 +1,14 @@
 # Bilkent_CS426_Projects
-Projects assigned in the CS426 - Parallel Computing course in Bilkent University. (2019-2020)
+
+My solutions to the projects of Bilkent University's Parallel Computing course.
+
+## Topics:
+
+`Project1`: MPI
+
+`Project2`: MPI
+
+`Project3`: OpenMP
+
+`Project4`: CUDA
+
